@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aviator Game</title>
+</head>
+<body>
+    <h2>Play Aviator</h2>
+    <iframe src="https://aviator-demo.spribegaming.com" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
